@@ -1,0 +1,5 @@
+// Get Gin module
+go get github.com/gin-gonic/gin
+
+// Docs
+https://go.dev/doc/tutorial/web-service-gin
